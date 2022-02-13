@@ -1,0 +1,7 @@
+const indexRunner = require('./runners/index')
+
+const run = () => {
+    indexRunner();
+}
+
+run();
